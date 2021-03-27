@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+This is the Website of Coding4All Academy.
 
-Template Name: Mentor
-Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Made by HTML5, CSS3, JS, Bootstrap.
